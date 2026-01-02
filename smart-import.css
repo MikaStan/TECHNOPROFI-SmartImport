@@ -8,7 +8,7 @@
     min-height: 420px;
     background:
         radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 100%),
-        url(/img/hero-import-back.jpg) center/cover no-repeat;
+        url(./img/hero-import-back.jpg) center/cover no-repeat;
     margin-bottom: 94px; 
 }
 
@@ -136,11 +136,11 @@
 }
 
 .about__mission {
-    background-image: url(/img/bgr-black.png);
+    background-image: url(./img/bgr-black.png);
 }
 
 .about__target {
-    background-image: url(/img/bgr-yellow.png);
+    background-image: url(./img/bgr-yellow.png);
 }
 
 .about__content {
